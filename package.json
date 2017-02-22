@@ -4,7 +4,8 @@
   "description": "hw14",
   "main": "server.js",
   "scripts": {
-    "test": "test"
+    "test": "test",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
@@ -25,5 +26,6 @@
     "express-handlebars": "^3.0.0",
     "method-override": "^2.3.7",
     "mysql": "^2.13.0"
-  }
+  },
+  "devDependencies": {}
 }
